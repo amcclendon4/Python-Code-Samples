@@ -1,3 +1,9 @@
+# Author: Alexandra McClendon
+# Course: CSS300
+# Module 4 Lab Activity
+# Description: Debugging corrections for this Python program.
+# This program calculates the average of three exam grades and prints the letter grade and pass or fail status.
+
 # Calculating Grades
 
 exam_one = int(input("Input exam grade one: "))
