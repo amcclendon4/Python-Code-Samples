@@ -1,3 +1,9 @@
+# Author: Alexandra McClendon
+# Course: CSS300
+# Module 4 Lab Activity
+# Description: Debugging corrections for this Python program.
+# This program calculates when an alarm will go off after waiting a certain number of hours.
+
 str_time = input("What time is it now? ")
 str_wait_time = input("What is the number of hours to wait? ")
 
