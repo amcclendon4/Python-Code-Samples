@@ -1,3 +1,9 @@
+# Author: Alexandra McClendon
+# Course: CSS300
+# Module 4 Lab Activity
+# Description: Debugging corrections for this Python program.
+# This program prints authors and the year they died.
+
 # Create a collection of these authors and
 # the year they kicked the bucket;
 # print the collection in the following format:
