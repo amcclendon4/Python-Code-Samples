@@ -6,3 +6,14 @@ Circle Area Calculator - This program asks the user for a radius and calculates 
 MPG Calculator - This program asks for miles driven and gallons used, then calculates how many miles per gallon the car gets.
 Fahrenheit to Celsius Converter - This program takes a temperature in Fahrenheit and converts it to Celsius.
 Return Day Calculator - This program asks for a starting day number and the number of nights for a trip, then tells the user what day of the week they will return on.
+
+This repository contains my Python code samples for CSS300. 
+Module 4 includes six debugging programs. Each file shows the corrected version of the original code and includes authorship and comments explaining the purpose of the program. These samples demonstrate how debugging improves accuracy and reliability in Python code.
+
+Files added for Module 4:
+branching.py
+collections.py
+pirate.py
+grading.py
+time.py
+time2.py
