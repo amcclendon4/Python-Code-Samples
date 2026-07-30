@@ -1,3 +1,8 @@
+# Author: Alexandra McClendon
+# Course: CSS300
+# Module 4 Lab Activity
+# Description: Debugging corrections for this Python program.
+This program checks a year and prints whether its in the past, present, or future.
 
 # A time traveler has suddenly appeared in your classroom!
 
