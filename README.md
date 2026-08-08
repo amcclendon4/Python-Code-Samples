@@ -17,3 +17,13 @@ pirate.py
 grading.py
 time.py
 time2.py
+
+Module 5 Lab Activity
+This folder includes my five Python programs for the Module 5 Lab Activity. Each file has my name, the date, and comments explaining what the program does.
+
+hello world 100 prints Hello World one hundred times using a loop.
+numbers question2 prints each number in a list and then prints each number with its square.
+question 3 asks the user for polygon details and draws a filled shape using turtle.
+question 4 loops from 1 to 50 and prints special messages for numbers divisible by three, five, or both.
+question 5 draws a creative picture using turtle and experiments with different turtle methods.
+All programs were tested and debugged to make sure they run correctly.
